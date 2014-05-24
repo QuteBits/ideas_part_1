@@ -37,3 +37,24 @@ People that do science usually don't like to explain some thing twice. Why not c
 ## 4. Badoo + Vine
 
 Ever tried to hustle a date online? If yes, you might stumble on the same major observation: you can photoshop a candy out of shit. While Badoo, Lovoo and similar sites do an amazing job to add some game-like behaviour to the task of online dating, photos are not enough. We need video. 7 seconds might be enough for that.
+
+## 5. 2 People Near Eachother App
+
+When you meet someone at a crowded place (which is not rare in big cities), you sometimes waste time on finding eachother. Assuming most people have smartphones, why not make an app with a single purpose: show the direction the other person is? I mean, I call you - you share me a link which shares your current location, I accept it - and BAAM! I see which way I have to go to find you.
+
+## 6. 3D Photoshop
+
+Imagine Photoshop. You draw an image - and then edit the depth mask of it. Then you change your camera angle, draw again, on a current 3D model, then edit depth mask. Repeat until you get what you want.
+
+*Examples of usage:*
+
+ * A designer sketching a level for a 3D game.
+ * Converting a photo into a 3D model.
+
+## 7. Stock Predictions Exploiting Stock Predictions
+
+After seeing a really nifty DefCon vid about exploiting spammers, imagine exploiting stock predictions. You figure out a certain widely used way to predict stocks (Hi-Frequency Trading, for example) - and figure out if you can exploit the exploit.
+
+*Meta-Idea:*
+
+ * Exploit exploits
