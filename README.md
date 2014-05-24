@@ -9,12 +9,12 @@ I've started to collect these ideas somewhere in 2011. Here is a small selection
 
 Sometimes I want to review some code in RapGenius style. And the most awesome way I know seems to be prnting it out. But what if you don't have an IDE at hand? What if you want to have a certain color scheme? What if your configured color scheme in the IDE looks shitty on paper? Why not host a nice static site with configurable color schemes for that?
  
-# Examples of usage:
+*Examples of usage:*
 
  * Print the code at some print shop and enjoy reviewing at your favorite Cafe
  * Review the code using a good looking color scheme
 
-# Examples:
+*Examples:*
 
  * [http://tohtml.com/](http://tohtml.com/)
 
@@ -22,11 +22,11 @@ Sometimes I want to review some code in RapGenius style. And the most awesome wa
 
 Not all good scientists are good writers/artists. I believe there is a need to visually decrypt scientific papers online (at least the classics). When I was writing my Diploma Thesis, I had to go through about 20-30 papers. Well, as much as you might enjoy the writing style of some of them, it's astonishing how much simpler you can explain the core ideas of the paper after you grasp them. In most cases some nice drawn examples spare you hours of trying to understand the text you are reading.
 
-# Examples:
+*Examples:*
 
  * [Bret Victor - Scientific Communication](http://worrydream.com/#!/ScientificCommunicationAsSequentialArt)
 
-# Extensions:
+*Extensions:*
 
  * You can host and update these visual decryptions on GitHub
 
