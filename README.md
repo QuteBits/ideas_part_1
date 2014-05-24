@@ -3,7 +3,7 @@ Qute Hack Ideas (Part 1)
 
 _Hint:_ There is a separate markup for each of these ideas. So if you want to pull an update, do it for the corresponding md-file. Contributions and corrections (I'm not a native english speaker) are welcome! Proposals to work on one of the ideas are welcome too.
 
-I've started to collect these ideas somewhere in 2011. Here is a small selection of these:
+I've started to collect these ideas somewhere in 2011. Here is a small selection (7 ideas) of these:
 
 ## 1. Online Syntax Highlighter for Print
 
